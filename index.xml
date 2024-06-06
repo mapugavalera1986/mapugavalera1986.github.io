@@ -2,24 +2,24 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Paradero desierto</title>
-    <link>http://localhost:1313/</link>
+    <link>https://mapugavalera1986.github.io/</link>
     <description>Recent content on Paradero desierto</description>
     <generator>Hugo</generator>
     <language>es-pe</language>
     <lastBuildDate>Thu, 30 May 2024 21:10:01 -0500</lastBuildDate>
-    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://mapugavalera1986.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Nosotros</title>
-      <link>http://localhost:1313/nosotros/</link>
+      <link>https://mapugavalera1986.github.io/nosotros/</link>
       <pubDate>Thu, 30 May 2024 21:10:01 -0500</pubDate>
-      <guid>http://localhost:1313/nosotros/</guid>
+      <guid>https://mapugavalera1986.github.io/nosotros/</guid>
       <description>Yo no quería ni quiero ya ser yo,&#xA;Sino otro que se salvara o que se salve&#xA;&amp;mdash;Martín Adán&#xA;Nos unen la exigencia y el cuidado en el trabajo con la palabra, en un espíritu de cooperación y solidaridad. También Lima, la ciudad en la que nos conocimos - sus arenas, sus atascos, su cielo gris. Funcionamos como un taller permanente de poesía: escribiendo, corrigiendo, reescribiendo. Entre nuestras influencias debemos señalar a Adonis, Alejandra Pizarnik, José María Eguren, Tilsa Otta, Pedro Salinas y Joan Margarit.</description>
     </item>
     <item>
       <title>Publicaciones</title>
-      <link>http://localhost:1313/publicaciones/</link>
+      <link>https://mapugavalera1986.github.io/publicaciones/</link>
       <pubDate>Thu, 30 May 2024 21:10:01 -0500</pubDate>
-      <guid>http://localhost:1313/publicaciones/</guid>
+      <guid>https://mapugavalera1986.github.io/publicaciones/</guid>
       <description></description>
     </item>
   </channel>

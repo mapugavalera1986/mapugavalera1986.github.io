@@ -2,17 +2,17 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:1313/nosotros/</loc>
+    <loc>https://mapugavalera1986.github.io/nosotros/</loc>
     <lastmod>2024-05-30T21:10:01-05:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/</loc>
+    <loc>https://mapugavalera1986.github.io/</loc>
     <lastmod>2024-05-30T21:10:01-05:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/publicaciones/</loc>
+    <loc>https://mapugavalera1986.github.io/publicaciones/</loc>
     <lastmod>2024-05-30T21:10:01-05:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/categories/</loc>
+    <loc>https://mapugavalera1986.github.io/categories/</loc>
   </url><url>
-    <loc>http://localhost:1313/tags/</loc>
+    <loc>https://mapugavalera1986.github.io/tags/</loc>
   </url>
 </urlset>
