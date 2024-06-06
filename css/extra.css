@@ -1,0 +1,86 @@
+.lista-segmento {
+    padding-top: 16px;
+    display: inline;
+}
+
+.lista-elemento {
+    margin-top: 16px ;
+    height: fit-content;
+    display: flex;
+    align-items: center;
+}
+
+/*Para la información de quienes integran el colectivo*/
+
+.integrante{
+    display: flex;
+}
+
+.integrante-info {
+    flex: 1;
+    margin-right: 5%;
+    width: 65%;
+}
+
+.integrante-info h3 {
+    margin-top: 0;
+}
+
+.integrante-foto {
+    right: 0;
+    width: 160px;
+    height: 160px;
+}
+
+.integrante-foto img {
+    height: 100%;
+    width: 100%;
+    border-radius: 50%;
+    object-fit: cover;
+}
+
+/*Para ver las publicaciones*/
+.texto{
+    display: inline-block;
+    width: 100%;
+}
+
+.texto-nombre h3{
+    margin-top: 0;
+}
+
+.texto-nombre p{
+    margin-top: -16px;
+    font-size: 80%;
+}
+
+.texto-info{
+    width: 100%;
+    display: flex;
+    position: relative;
+    justify-content: center;
+    align-items: center;
+}
+
+.texto-info-todo {
+    flex: 1;
+    margin-right: 5%;
+    width: 65%;
+}
+
+
+.texto-foto {
+    width: 180px;
+    height: 240px;
+}
+
+.texto-foto img {
+    height: 100%;
+    width: 100%;
+    border-radius: 10%;
+    object-fit: cover;
+}
+
+.texto-enlace{
+    margin-top: 8px;
+}
