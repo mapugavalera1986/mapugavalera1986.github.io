@@ -1,7 +1,7 @@
 {
 	"version": 3,
 	"file": "main.css",
-	"sourceRoot": "/Users/marioaugustopugavalera/Documents/Proyectos Web/demo-paradero-desierto",
+	"sourceRoot": "/Users/marioaugustopugavalera/Documents/Proyectos Web/paradero-desierto-web",
 	"sources": [
 		"themes/hello-friend-ng/assets/scss/main.scss",
 		"themes/hello-friend-ng/assets/scss/_normalize.scss",
