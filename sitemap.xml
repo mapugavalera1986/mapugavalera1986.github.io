@@ -2,27 +2,27 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>//localhost:1313/</loc>
+    <loc>https://mapugavalera.github.io/</loc>
     <lastmod>2024-06-09T09:19:02-05:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/posts/</loc>
+    <loc>https://mapugavalera.github.io/posts/</loc>
     <lastmod>2024-06-09T09:19:02-05:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/posts/2024/06/prueba101/</loc>
+    <loc>https://mapugavalera.github.io/posts/2024/06/prueba101/</loc>
     <lastmod>2024-06-09T02:58:25-05:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/tags/</loc>
+    <loc>https://mapugavalera.github.io/tags/</loc>
     <lastmod>2024-06-09T02:58:25-05:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/tags/untagged/</loc>
+    <loc>https://mapugavalera.github.io/tags/untagged/</loc>
     <lastmod>2024-06-09T02:58:25-05:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/publicaciones/</loc>
+    <loc>https://mapugavalera.github.io/publicaciones/</loc>
     <lastmod>2024-06-08T21:13:23-05:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/nosotros/</loc>
+    <loc>https://mapugavalera.github.io/nosotros/</loc>
     <lastmod>2024-06-08T02:56:48-05:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/categories/</loc>
+    <loc>https://mapugavalera.github.io/categories/</loc>
   </url>
 </urlset>

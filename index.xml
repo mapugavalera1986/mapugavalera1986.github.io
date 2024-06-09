@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Paradero desierto</title>
-    <link>//localhost:1313/</link>
+    <link>https://mapugavalera.github.io/</link>
     <description>Recent content on Paradero desierto</description>
     <generator>Hugo</generator>
     <language>es-PE</language>
     <lastBuildDate>Sun, 09 Jun 2024 02:58:25 -0500</lastBuildDate>
-    <atom:link href="//localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://mapugavalera.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Prueba101</title>
-      <link>//localhost:1313/posts/2024/06/prueba101/</link>
+      <link>https://mapugavalera.github.io/posts/2024/06/prueba101/</link>
       <pubDate>Sun, 09 Jun 2024 02:58:25 -0500</pubDate>
-      <guid>//localhost:1313/posts/2024/06/prueba101/</guid>
+      <guid>https://mapugavalera.github.io/posts/2024/06/prueba101/</guid>
       <description>Cosas guapas</description>
     </item>
   </channel>

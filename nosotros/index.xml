@@ -2,11 +2,11 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Quiénes somos on Paradero desierto</title>
-    <link>//localhost:1313/nosotros/</link>
+    <link>https://mapugavalera.github.io/nosotros/</link>
     <description>Recent content in Quiénes somos on Paradero desierto</description>
     <generator>Hugo</generator>
     <language>es-PE</language>
     <lastBuildDate></lastBuildDate>
-    <atom:link href="//localhost:1313/nosotros/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://mapugavalera.github.io/nosotros/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
